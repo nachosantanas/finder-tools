@@ -2,7 +2,7 @@
 from pathlib import Path
 import re, subprocess
 root=Path(__file__).resolve().parents[1]
-allowed={'README.md','AGENTS.md','docs/PROJECT_CONTEXT.md','docs/HANDOFF.md','docs/REVIEW_WORKFLOW.md','.github/pull_request_template.md','.github/workflows/catalogue.yml','tools/check_catalogue.py'}
+allowed={'README.md','AGENTS.md','docs/PROJECT_CONTEXT.md','docs/USING_AGENTS.md','docs/HANDOFF.md','docs/REVIEW_WORKFLOW.md','.github/pull_request_template.md','.github/workflows/catalogue.yml','tools/check_catalogue.py'}
 files=subprocess.check_output(['git','ls-files','-z'],cwd=root).decode().split('\0')
 for name in filter(None,files):
     assert name in allowed or re.fullmatch(r'icons/[a-z0-9-]+\.png',name), f'Unexpected public file: {name}'

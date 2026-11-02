@@ -7,3 +7,5 @@ Preserve entries and icons. Make scoped task-branch changes, run python3 tools/c
 ## Code Review Rules
 
 Reject private-data/source exposure, broken icon references and unsupported app claims. Catalogue checks establish structure only, not desktop utility correctness.
+
+For day-to-day agent use, read docs/USING_AGENTS.md. Development implementation remains separate; no private development handoffs belong in this public catalogue.
