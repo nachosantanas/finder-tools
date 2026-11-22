@@ -1,6 +1,6 @@
-# Finder Tools
+# Finder/Explorer Tools
 
-Mac and Windows tools built by Nacho Santana for his video editing and edit-assistant workflow: file utilities (each entry says where it runs), plus one toolkit for DaVinci Resolve, Premiere and Final Cut Pro that works the same on Mac and Windows.
+Mac and Windows tools built by Nacho Santana for his video editing and edit-assistant workflow: Finder/Explorer tools (each entry says where it runs), plus one toolkit for DaVinci Resolve, Premiere and Final Cut Pro that works the same on Mac and Windows.
 
 [Portfolio](https://cutbynacho.com/#personal-projects)
 
@@ -16,7 +16,7 @@ Browse Avid MXF atoms as clips, preview them in IINA, and inspect multicam group
 
 ![Clip Info icon](icons/clip-info.png)
 
-A live clip-information window that follows your selection in Finder. Mac and Windows.
+A live clip-information window that follows your selection in Finder/Explorer. Mac and Windows.
 
 ## Runtime
 
@@ -52,13 +52,13 @@ Add technical metadata and QC flags as Finder tags, which Final Cut can import a
 
 ![TC to Comments icon](icons/tc-to-comments.png)
 
-Write each clip’s starting timecode into its Finder comment while preserving existing notes. Mac and Windows.
+Write each clip’s starting timecode into its Finder/Explorer comment while preserving existing notes. Mac and Windows.
 
 ## Comment
 
 ![Comment icon](icons/comment.png)
 
-Apply a comment to selected Finder files, replacing or appending to existing comments. Mac and Windows.
+Apply a comment to selected Finder/Explorer files, replacing or appending to existing comments. Mac and Windows.
 
 ## Copy Names
 
@@ -116,4 +116,4 @@ For enquiries, use the contact section on [cutbynacho.com](https://cutbynacho.co
 
 ## Icons
 
-The file utility icons were extracted from the existing app bundles; the NLE Toolkit icons are illustrations made for this catalogue. No rights to third-party marks or system symbols are granted.
+The Finder/Explorer tool icons were extracted from the existing app bundles; the NLE Toolkit icons are illustrations made for this catalogue. No rights to third-party marks or system symbols are granted.
