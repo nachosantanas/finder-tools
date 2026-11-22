@@ -46,7 +46,7 @@ Calculate proxy dimensions at 50%, 25% and standard sizes while preserving the s
 
 ![Video Tags icon](icons/video-tags.png)
 
-Add technical metadata and QC flags as Finder tags, which Final Cut can import as keywords. Mac and Windows.
+Add technical metadata and QC flags as Finder tags, which Final Cut can import as keywords. Mac.
 
 ## TC to Comments
 
