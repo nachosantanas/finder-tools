@@ -10,7 +10,7 @@ This repository is a public catalogue of descriptions and icons only. It contain
 
 ![Atom Browser icon](icons/atom-browser.png)
 
-Browse Avid MXF atoms as clips, preview them in IINA, and inspect multicam groups. Mac.
+Browse Avid MXF atoms as clips, preview them in IINA, and inspect multicam groups. Mac and Windows.
 
 ## Clip Info
 
@@ -28,7 +28,7 @@ Calculate the total running time of selected clips or folders, with a timeline f
 
 ![Timecode Changer icon](icons/timecode-changer.png)
 
-Batch-change timecode in MOV, MP4, MXF and WAV without re-encoding. Also edit reel names in MOV/MP4 and tape names in WAV. Creates copies by default. Mac.
+Batch-change timecode in MOV, MP4, MXF and WAV without re-encoding. Also edit reel names in MOV/MP4 and tape names in WAV. Creates copies by default. Mac and Windows.
 
 ## Captions to Titles
 
@@ -46,7 +46,7 @@ Calculate proxy dimensions at 50%, 25% and standard sizes while preserving the s
 
 ![Video Tags icon](icons/video-tags.png)
 
-Add technical metadata and QC flags as Finder tags, which Final Cut can import as keywords. Mac.
+Add technical metadata and QC flags as Finder tags, which Final Cut can import as keywords. Mac and Windows.
 
 ## TC to Comments
 
@@ -58,7 +58,7 @@ Write each clip’s starting timecode into its Finder comment while preserving e
 
 ![Comment icon](icons/comment.png)
 
-Apply a comment to selected Finder files, replacing or appending to existing comments. Mac.
+Apply a comment to selected Finder files, replacing or appending to existing comments. Mac and Windows.
 
 ## Copy Names
 
