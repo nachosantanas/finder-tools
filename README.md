@@ -1,6 +1,6 @@
 # Finder Tools
 
-macOS utilities and NLE tools built by Nacho Santana for his video editing and edit-assistant workflow: Finder tools for macOS, plus one toolkit for DaVinci Resolve, Premiere and Final Cut Pro that works the same on Mac and Windows.
+Mac and Windows tools built by Nacho Santana for his video editing and edit-assistant workflow: file utilities (each entry says where it runs), plus one toolkit for DaVinci Resolve, Premiere and Final Cut Pro that works the same on Mac and Windows.
 
 [Portfolio](https://cutbynacho.com/#personal-projects)
 
@@ -10,67 +10,67 @@ This repository is a public catalogue of descriptions and icons only. It contain
 
 ![Atom Browser icon](icons/atom-browser.png)
 
-Browse Avid MXF atoms as clips, preview them in IINA, and inspect multicam groups.
+Browse Avid MXF atoms as clips, preview them in IINA, and inspect multicam groups. Mac.
 
 ## Clip Info
 
 ![Clip Info icon](icons/clip-info.png)
 
-A live clip-information window that follows your selection in Finder.
+A live clip-information window that follows your selection in Finder. Mac and Windows.
 
 ## Runtime
 
 ![Runtime icon](icons/runtime.png)
 
-Calculate the total running time of selected clips or folders, with a timeline frame-rate picker.
+Calculate the total running time of selected clips or folders, with a timeline frame-rate picker. Mac and Windows.
 
 ## Timecode Changer
 
 ![Timecode Changer icon](icons/timecode-changer.png)
 
-Batch-change timecode in MOV, MP4, MXF and WAV without re-encoding. Also edit reel names in MOV/MP4 and tape names in WAV. Creates copies by default.
+Batch-change timecode in MOV, MP4, MXF and WAV without re-encoding. Also edit reel names in MOV/MP4 and tape names in WAV. Creates copies by default. Mac.
 
 ## Captions to Titles
 
 ![Captions to Titles icon](icons/captions-to-titles.png)
 
-Convert captions in Final Cut Event XML into titles with matching timing, for CommandPost’s Titles to Keywords workflow. Requires Python 3.9 or newer.
+Convert captions in Final Cut Event XML into titles with matching timing, for CommandPost’s Titles to Keywords workflow. Requires Python 3.9 or newer. Mac.
 
 ## Proxy Size
 
 ![Proxy Size icon](icons/proxy-size.png)
 
-Calculate proxy dimensions at 50%, 25% and standard sizes while preserving the source aspect ratio. Copy dimensions into Shutter Encoder.
+Calculate proxy dimensions at 50%, 25% and standard sizes while preserving the source aspect ratio. Copy dimensions into Shutter Encoder. Mac and Windows.
 
 ## Video Tags
 
 ![Video Tags icon](icons/video-tags.png)
 
-Add technical metadata and QC flags as Finder tags, which Final Cut can import as keywords.
+Add technical metadata and QC flags as Finder tags, which Final Cut can import as keywords. Mac.
 
 ## TC to Comments
 
 ![TC to Comments icon](icons/tc-to-comments.png)
 
-Write each clip’s starting timecode into its Finder comment while preserving existing notes.
+Write each clip’s starting timecode into its Finder comment while preserving existing notes. Mac and Windows.
 
 ## Comment
 
 ![Comment icon](icons/comment.png)
 
-Apply a comment to selected Finder files, replacing or appending to existing comments.
+Apply a comment to selected Finder files, replacing or appending to existing comments. Mac.
 
 ## Copy Names
 
 ![Copy Names icon](icons/copy-names.png)
 
-Copy selected file names in natural order. Hold Option to omit file extensions.
+Copy selected file names in natural order. Hold Option to omit file extensions. Mac and Windows.
 
 ## Projects
 
 ![Projects icon](icons/projects.png)
 
-Create project folders and templates for Avid, Premiere and Resolve. Uses my local templates and needs configuration on another Mac.
+Create project folders and templates for Avid, Premiere and Resolve. Uses my local templates and needs configuration on another Mac. Mac and Windows.
 
 ## NLE Toolkit
 
@@ -110,10 +110,10 @@ One toolkit, set up the same way on a Mac or a Windows edit machine, so everythi
 
 ## Usage and availability
 
-These are desktop tools, not browser applications: the Finder tools are for macOS, the NLE Toolkit runs on Mac and Windows. Catalogue entries describe the current personal builds; no public download or support commitment is implied. Projects requires configured local templates. Captions to Titles requires Python 3.9 or newer. Other tools may depend on local helpers and external utilities.
+These are desktop tools, not browser applications: each entry says whether it runs on Mac, Windows or both; the NLE Toolkit runs on both. Catalogue entries describe the current personal builds; no public download or support commitment is implied. Projects requires configured local templates. Captions to Titles requires Python 3.9 or newer. Other tools may depend on local helpers and external utilities.
 
 For enquiries, use the contact section on [cutbynacho.com](https://cutbynacho.com/#contact).
 
 ## Icons
 
-The Finder tool icons were extracted from the existing app bundles; the NLE Toolkit icons are illustrations made for this catalogue. No rights to third-party marks or system symbols are granted.
+The file utility icons were extracted from the existing app bundles; the NLE Toolkit icons are illustrations made for this catalogue. No rights to third-party marks or system symbols are granted.
